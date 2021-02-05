@@ -7,5 +7,5 @@ is RestAPI that uses NodeJS, Express and MySQL
 ### 2. npm start
 After starting, run it in the browser by typing https://localhost:3000
 
-### Done 
+### 3. Done 
 Have fun
